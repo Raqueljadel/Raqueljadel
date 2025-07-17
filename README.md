@@ -30,8 +30,7 @@ Here are a few highlights – check the pinned repos for more!
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Raqueljadel&theme=blue-navy)](https://git.io/streak-stats)
 
 ---
 
@@ -39,6 +38,7 @@ Here are a few highlights – check the pinned repos for more!
 
 - 📧 [raqueljadel@gmail.com](mailto:your.email@example.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/raquel-jaen-delgado)  
-- 🌐 [Portfolio](https://your-portfolio-site.com)
-
 ---
+
+
+
