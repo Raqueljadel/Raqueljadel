@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Raquel!
+# 👋🏻 Hi, I'm Raquel!
 
 🎓 Data Science & Engineering student at **Universidad Carlos III de Madrid**  
 🌍 Currently studying abroad at **University of Waterloo**  
