@@ -1,22 +1,9 @@
 # 👋🏻 Hi, I'm Raquel!
 
 🎓 Data Science & Engineering student at **Universidad Carlos III de Madrid**  
-🌍 Currently studying abroad at **University of Waterloo**  
+🌍 Exchange student at **University of Waterloo**  
 💡 Passionate about AI, Machine Learning, and solving real-world problems with data  
 🤝 Enjoy mentoring, collaborating, and building things that matter  
-
----
-
-## 💼 Currently
-
-- 🔬 Working on NLP and LLM-related projects  
-- 🌱 Learning more about distributed systems & ethical AI  
-
----
-
-## 🚀 Projects
-
-Here are a few highlights – check the pinned repos for more!  
 
 ---
 
